@@ -24,4 +24,4 @@
 # testing algoritms
 ### our goal to predict future temp. anomaly so we need regression algorithms. we tested linear regression , SVR and RandomForestRegressor .
 #  predict future temperature anomaly:
-### using RandomForestRegressor pedict 12 month future anomaly
+### using RandomForestRegressor predict 12 month future anomaly
